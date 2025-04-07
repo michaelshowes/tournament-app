@@ -17,9 +17,9 @@ A modern web application for managing and organizing tournaments. This applicati
 - Next.js
 - TypeScript
 - Tailwind CSS
-- Prisma (Database ORM)
+- Drizzle ORM
 - PostgreSQL
-- NextAuth.js (Authentication)
+- Better Auth (Authentication)
 
 ## Getting Started
 
