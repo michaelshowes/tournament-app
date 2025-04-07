@@ -25,8 +25,8 @@ A modern web application for managing and organizing tournaments. This applicati
 
 ### Prerequisites
 
-- Node.js (v18 or higher)
-- npm or yarn
+- Node.js (v20 or higher)
+- pnpm
 - PostgreSQL database
 
 ### Installation
@@ -39,9 +39,7 @@ cd tournament-app
 
 2. Install dependencies:
 ```bash
-npm install
-# or
-yarn install
+pnpm install
 ```
 
 3. Set up environment variables:
@@ -51,9 +49,7 @@ cp .env.example .env
 
 4. Start the development server:
 ```bash
-npm run dev
-# or
-yarn dev
+pnpm dev
 ```
 
 The application will be available at `http://localhost:3000`
